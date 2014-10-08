@@ -1,0 +1,16 @@
+{
+    "name": "PavelPolyakov/location-search",
+    "authors": [
+        {
+            "name": "Pavel Polyakov",
+            "email": "me@pavelpolyakov.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Models\\": "Models/"
+        }
+    }
+}
