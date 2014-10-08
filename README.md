@@ -20,6 +20,7 @@ you can test it working in the web:
 
 * [http://location-search.pavelpolyakov.com/?query=buritos in Berlin](http://location-search.pavelpolyakov.com/?query=buritos in Berlin)
 * [http://location-search.pavelpolyakov.com/?query=ramen in Tokyo](http://location-search.pavelpolyakov.com/?query=ramen in Tokyo)
+* [http://location-search.pavelpolyakov.com/?query=cafes in Kharkov](http://location-search.pavelpolyakov.com/?query=cafes in Kharkov)
 
 
 ## Testing:
