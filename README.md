@@ -30,6 +30,7 @@ The project files:
 * [/index.php](/index.php) - entry point of the location search service
 * [/Models/GooglePlacesApi.php](/Models/GooglePlacesApi.php) - an abstract wrapper for the Google places location search API
 * [/tests/](/tests/) - folder with the tests for PHPUnit
+* [.htaccess](.htaccess) - .htaccess file for apache, preventing the access to _apiKey
 
 ## Other noteworthy points
 * The composer is used to have an option to use the additional libraries if needed and in order to use it's autoload
