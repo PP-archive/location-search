@@ -34,4 +34,4 @@ The project files:
 * [.htaccess](.htaccess) - .htaccess file for apache, preventing the access to _apiKey
 
 ## Other noteworthy points
-* The composer is used to have an option to use the additional libraries if needed and in order to use it's autoload
+* The composer is used to have an option to use the additional libraries if needed and in order to use its autoload
