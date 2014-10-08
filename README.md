@@ -32,4 +32,4 @@ The project files:
 * [/tests/](/tests/) - folder with the tests for PHPUnit
 
 ## Other noteworthy points
-* I've used composer to have an option to use the additional libraries if needed and in order to use it's autoload
+* The composer is used to have an option to use the additional libraries if needed and in order to use it's autoload
