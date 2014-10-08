@@ -13,8 +13,8 @@ If the result is successful, the http status code would be 200.
 1. Create the file named _apiKey to the project folder. Put the correct google API key to the file _apiKey.
 2. Put the project folder to the server, which is configured to process PHP. Let's assume it's the folder location-search on your localhost.
 3. Open one of the next urls in the browser (assuming that index.php is set as directory index):
-* [http://localhost/location-search/?query=buritos in Berlin](http://localhost/location-search/?query=buritos in Berlin)
-* [http://localhost/location-search/?query=ramen in Tokyo](http://localhost/location-search/?query=ramen in Tokyo)
+  * [http://localhost/location-search/?query=buritos in Berlin](http://localhost/location-search/?query=buritos in Berlin)
+  * [http://localhost/location-search/?query=ramen in Tokyo](http://localhost/location-search/?query=ramen in Tokyo)
 
 you can test it working in the web:
 
